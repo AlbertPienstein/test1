@@ -3,8 +3,8 @@
 ## Demo
 
 Demo 1
-![Demo 1](IMG_9577.gif)
+<img src="https://raw.githubusercontent.com/AlbertPienstein/test1/main/IMG_9577.gif" alt="GIF 1" width="600">
 
 
 Demo 2
-![Demo 2](IMG_9578.gif)
+<img src="https://raw.githubusercontent.com/AlbertPienstein/test1/main/IMG_9578.gif" alt="GIF 2" width="600">
